@@ -2,7 +2,6 @@ using UnityEngine;
 
 namespace Assets.Player
 {
-    
     public class PlayerLook
     {
         private float _lookSpeed;

@@ -1,5 +1,3 @@
-using Assets.InputController;
-
 namespace Assets.EntryPoint
 {
     public interface IInitializer
